@@ -1,4 +1,4 @@
-##  🤗 Welcome🤗
+##  🤗 Welcome
 
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&show_icons=true&theme=bear)
 ### 📫 How to reach me:
