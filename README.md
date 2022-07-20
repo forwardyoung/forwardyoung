@@ -17,7 +17,6 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chahwayoung214@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
 
 ### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
