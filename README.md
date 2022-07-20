@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/my_funny_valentine_hwa_0_eee/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/my_funny_valentine_hwa_0_eee/"
-        style="height : auto; margin-left : 10px; margin-right : 10px; "/>
+        style="height : auto; margin-left : 20px; margin-right : 20px; "/>
 </a>
 <a href="mailto:chahwayoung214@gmail.com">
         <img 
