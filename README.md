@@ -16,7 +16,7 @@
 <a href="mailto:chahwayoung214@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-3A76F0?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:chahwayoung214@gmail.com""
-        style="height: auto; margin-left: 10px; margin-right: 10px; "/>
+        style="height: auto; margin-left: 5px; margin-right: 5px; "/>
 </a>
 
 ### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
