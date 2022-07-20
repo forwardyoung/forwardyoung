@@ -1,8 +1,5 @@
 ##  🤗 Welcome
 
-### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
-![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
-
 😸👩‍🍳🍰🥘📸🌺☃️🎹🎵
 
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&show_icons=true&theme=bear)
@@ -13,4 +10,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
+![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
 
