@@ -1,7 +1,6 @@
 ##  🤗 Welcome
 
-### 📍 About me
-😸👩‍🍳🍰🥘📸🌺☃️🎹🎵
+### 📍 About me: 😸👩‍🍳🍰🥘📸🌺☃️🎹🎵
 
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&show_icons=true&theme=bear)
 
