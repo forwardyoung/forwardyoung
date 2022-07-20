@@ -17,7 +17,7 @@
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:chahwayoung214@gmail.com""
             style="height: auto; margin-left: 10px; margin-right: 10px; "/>
-
+</a>
 
 ### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
