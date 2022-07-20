@@ -12,6 +12,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/my_funny_valentine_hwa_0_eee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+         [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chahwayoung214@gmail.com)](mailto:chahwayoung214@gmail.com)
 </a>
 
 ### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
