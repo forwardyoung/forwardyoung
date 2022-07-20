@@ -11,11 +11,11 @@
 <a href="https://www.instagram.com/my_funny_valentine_hwa_0_eee/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/my_funny_valentine_hwa_0_eee/"
-        style="height : auto; margin-left : 20px; margin-right : 20px; padding: 10px; "/>
+        style="height : auto; margin-left : 20px; margin-right : 20px; padding: 20px; "/>
 </a>
 <a href="mailto:chahwayoung214@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-00CAFF?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:chahwayoung214@gmail.com""
+        src="https://img.shields.io/badge/Gmail-3A76F0?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:chahwayoung214@gmail.com""
         style="height: auto; margin-left: 10px; margin-right: 10px; "/>
 </a>
 
