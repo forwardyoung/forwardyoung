@@ -11,7 +11,5 @@
 </a>
 
 ### ✔️ I live with a cat named "Cha-ming" sounds like Charming :)
-
-<p align="center">
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
 
