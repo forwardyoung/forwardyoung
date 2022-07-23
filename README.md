@@ -17,5 +17,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### ✔️ I live with a cat named "Cha-ming" sounds like charming :)
+### ✔️ I live with a cat named "Cha-ming" sounding like charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
