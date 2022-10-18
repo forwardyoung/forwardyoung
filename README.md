@@ -2,7 +2,7 @@
 
 
 ### 📍 About me: 😸👩‍🍳🍰🍲📸🌺☃️🎹🎵
-![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&show_icons=true&theme=bear)
+![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=dark&show_icons=true)
 
 [![forwardyoung github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=forwardyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/forwardyoung)
 
