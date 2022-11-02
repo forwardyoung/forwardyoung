@@ -1,5 +1,6 @@
 ##  🤗 Welcome
 
+<a href=#><img src="contributions.svg"></a>
 
 ### 📍 About me: 😸👩‍🍳🍰🍲📸🌺☃️🎹🎵
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=aura_dark&show_icons=true)
@@ -19,3 +20,4 @@
 
 ### ✔️ I live with a cat named "Cha-ming" sounding like charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
+
