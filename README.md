@@ -1,6 +1,5 @@
 ##  🤗 Welcome
 
-<a href=#><img src="contributions.svg"></a>
 
 ### 📍 About me: 😸👩‍🍳🍰🍲📸🌺☃️🎹🎵
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=aura_dark&show_icons=true)
