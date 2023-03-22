@@ -15,7 +15,8 @@
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chahwayoung214@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=forwardyoung)](https://velog.io/@forwardyoung) 
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=forwardyoung)](https://velog.io/@forwardyoung) 
 
 ### ✔️ I live with a cat named "Cha-ming" sounding like charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
