@@ -17,7 +17,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=forwardyoung)](https://velog.io/@forwardyoung) 
 
 ### ✔️ I live with a cat named "Cha-ming" sounding like charming :)
