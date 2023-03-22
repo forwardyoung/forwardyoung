@@ -18,7 +18,7 @@
 </a>
 
 ### 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=forwardyoung)](https://github.com/forwardyoung/velog-readme-stats)
 
 ### ✔️ I live with a cat named "Cha-ming" sounding like charming :)
 ![](https://github.com/forwardyoung/forwardyoung/blob/master/KakaoTalk_20220720_105610603.jpg)
