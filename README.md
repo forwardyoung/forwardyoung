@@ -2,7 +2,7 @@
 
 
 ### 📍 About me: 😸👩‍🍳🍰📸🌺☃️🎹🎵💻
-`I'm a Jr.Backend Developer!`
+`I'm a Backend Developer!`
 
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=aura_dark&show_icons=true)
 
