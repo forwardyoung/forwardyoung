@@ -2,7 +2,7 @@
 
 
 ### 📍 About me: 😸👩‍🍳🍰📸🌺☃️🎹🎵💻
-`I'm a Backend Developer!`
+`I'm a Software Engineer who is passionate about Open Source Contribution, global connection.`
 
 ![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=aura_dark&show_icons=true)
 
