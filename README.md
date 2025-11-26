@@ -2,9 +2,10 @@
 
 
 ### 📍 About me: 😸👩‍🍳🍰📸🌺☃️🎹🎵💻
-`I'm a Software Engineer who is passionate about Open Source Contribution, global connection.`
-
-![forwardyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardyoung&theme=aura_dark&show_icons=true)
+```
+I'm a Software Engineer who is passionate about Open Source Contribution, global connection.
+I believe in making a positive impact on the world with Python.
+```
 
 [![forwardyoung github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=forwardyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/forwardyoung)
 
